@@ -10,6 +10,7 @@ Como Body se adjunta el mensaje:
 
 ```json
 {
+  "groupId":"order-team0-group-id",
   "success":true,
   "data":{
     "uuid":"abe3e894-b732-4475-8156-f582a95e5e48",
